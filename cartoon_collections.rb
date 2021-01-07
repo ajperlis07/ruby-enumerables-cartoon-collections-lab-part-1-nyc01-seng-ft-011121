@@ -1,7 +1,6 @@
 def greet_characters(array)
   greet_characters = []
-  greet_characters.each {|character| puts "Hello #{"
-   puts "Hello #{greet_character}!"
+  greet_characters.each {|character| puts "Hello #{character}"
   end
   # Use `each` to enumerate over the provided array
   #
