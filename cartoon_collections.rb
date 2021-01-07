@@ -3,5 +3,5 @@ def greet_characters(array)
     end 
 
 def list_dwarves(array)
-  list_dwarves = array.each.with_index(1)
+  list_dwarves = array.each.with_index(1) do 
 end 
