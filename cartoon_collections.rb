@@ -1,6 +1,6 @@
 def greet_characters(array)
   greet_characters = [array]
-  greet_characters
+  greet_characters.each do |
     puts "" 
   end
   # Use `each` to enumerate over the provided array
