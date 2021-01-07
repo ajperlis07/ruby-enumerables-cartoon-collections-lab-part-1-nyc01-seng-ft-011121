@@ -1,5 +1,5 @@
 def greet_characters(array)
-  greet_characters = [array][row][column]
+  greet_characters = array[row][column]
   greet_characters.each do |greet_character|
    puts "Hello #{greet_character}!"
   end
