@@ -1,5 +1,5 @@
 def greet_characters(array)
-  greet_characters = 
+  greet_characters = [].each {
     
 end 
 
