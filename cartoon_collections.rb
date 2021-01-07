@@ -1,5 +1,5 @@
 def greet_characters(array)
-  greet_characters = [].each {
+  greet_characters = [].each {|character| 
     
 end 
 
